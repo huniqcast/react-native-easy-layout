@@ -13,7 +13,7 @@ export default class Container extends Component {
       PropTypes.number,
       PropTypes.string,
     ]),
-    elevation: PropTypes.string,
+    elevation: PropTypes.number,
     borderRadius: PropTypes.any,
     border: PropTypes.any,
   }
